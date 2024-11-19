@@ -83,48 +83,5 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
-    },
-    {
-      "id": "bc49",
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": null
-    },
-    {
-      "id": "d59f",
-      "date": "2024-11-08",
-      "description": "bought movie tickets",
-      "category": "fun",
-      "amount": 7
-    },
-    {
-      "id": "fd3e",
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": null
-    },
-    {
-      "id": "1753",
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": null
-    },
-    {
-      "id": "0a47",
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": null
-    },
-    {
-      "id": "ba7d",
-      "date": "",
-      "description": "bought movie tickets",
-      "category": "fun",
-      "amount": 8
     }
-  ]
-}
+  ]}
